@@ -876,8 +876,8 @@ import shutil
 def main():
     """主函数：循环登录多个账号并执行操作"""
     account_password4 = {
-        "20231491431": "000000",
-        "20231491431": "000000"
+        "20231491431": "zjh666",
+        "20231491431": "zjh666"
     }
     sit_avilable, day_type = None, None
     users = {"自定义": [account_password4, "三楼理科书库", "32"]}
